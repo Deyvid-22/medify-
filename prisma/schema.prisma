@@ -67,3 +67,4 @@ model Appointments{
   updated_at  DateTime @updatedAt
   issueDescription String
 }
+
